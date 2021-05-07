@@ -1,0 +1,4 @@
+site_name: Open House 2021
+
+nav:
+   - Home: 'index.md'
