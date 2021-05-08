@@ -1,7 +1,8 @@
 site_name: Roberts Lab Virtual Open House
 theme:
-  name: mkdocs
-  palette:
+  name: readthedocs
+  prev_next_buttons_location: both
+  
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
