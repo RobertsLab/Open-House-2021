@@ -1,4 +1,4 @@
-site_name: Roberts Lab Virtual Open House with Workflow
+site_name: Roberts Lab Virtual Open House
 theme:
   name: material
   palette:
@@ -6,8 +6,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: green
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
