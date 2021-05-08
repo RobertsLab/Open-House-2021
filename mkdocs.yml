@@ -1,7 +1,6 @@
 site_name: Roberts Lab Virtual Open House
 theme:
   name: readthedocs
-      prev_next_buttons_location: both
 
     #
     # # Light mode
@@ -25,6 +24,7 @@ theme:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
+
 repo_url:
 
 nav:
