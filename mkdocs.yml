@@ -25,7 +25,6 @@ markdown_extensions:
   - pymdownx.superfences
 repo_url: https://github.com/RobertsLab/Open-House-2021/
 nav:
-   - Home: 'index.md'
-
-   - 'Lab Culture':
-     - Onboarding: 'Onboarding.md'
+   - Welcom: 'index.md'
+   - Hatchery Tour: 'Hatchery.md'
+   - Sablefish Release: 'Sablefish.md'
