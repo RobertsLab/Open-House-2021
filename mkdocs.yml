@@ -1,8 +1,8 @@
 site_name: Roberts Lab Virtual Open House
 theme:
   name: readthedocs
-  prev_next_buttons_location: both
-  
+      prev_next_buttons_location: both
+
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -21,10 +21,12 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 repo_url:
+
 nav:
    - Welcome: 'index.md'
    - Hatchery Tour: 'Hatchery.md'
