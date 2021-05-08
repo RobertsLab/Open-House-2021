@@ -1,4 +1,4 @@
-# Welcome to our Virtual Open House 2021
+# Welcome!
 
 
 Insert a welcome video here..
