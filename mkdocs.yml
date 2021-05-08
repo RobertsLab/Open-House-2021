@@ -28,3 +28,4 @@ nav:
    - Welcome: 'index.md'
    - Hatchery Tour: 'Hatchery.md'
    - Sablefish Release: 'Sablefish.md'
+   - Thanks for coming!: Thanks.md
