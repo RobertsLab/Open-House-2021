@@ -1,4 +1,4 @@
-# Welcome to Open House 2021
+# Welcome to our Virtual Open House 2021
 
 
-here is a second line of text.
+Insert a welcome video here..
