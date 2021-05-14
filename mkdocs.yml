@@ -30,6 +30,7 @@ repo_url:
 nav:
    - Welcome: 'index.md'
    - Hatchery Tour: 'Hatchery.md'
+   - Oyster larvae: 'Ostrea.md'
    - DNA Isolation: 'DNA_Isolation.md'
    - Sablefish Release: 'Sablefish.md'
    - Thanks for coming!: Thanks.md
