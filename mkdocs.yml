@@ -29,7 +29,7 @@ repo_url:
 
 nav:
    - Welcome!: 'index.md'
-   - Hatchery Tour - Where the Magic Happens: 'Hatchery.md'
+   - Where the Magic Happens - Visit a Shellfish Hatchery!: 'Hatchery.md'
    - Oyster Circle of Life: 'oysterlifecycle.md'
    - Let's play with data!: 'Ostrea.md'
    - How can we get data?: 'DNA_Isolation.md'
