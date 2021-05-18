@@ -28,9 +28,9 @@ markdown_extensions:
 repo_url:
 
 nav:
-   - Welcome: 'index.md'
-   - Hatchery Tour: 'Hatchery.md'
-   - Oyster larvae: 'Ostrea.md'
-   - DNA Isolation: 'DNA_Isolation.md'
-   - Sablefish Release: 'Sablefish.md'
+   - Welcome!: 'index.md'
+   - Hatchery Tour - Where the Magic Happens: 'Hatchery.md'
+   - Oyster Circle of Life: 'oysterlifecycle.md'
+   - Let's play with data!: 'Ostrea.md'
+   - How can we get data?: 'DNA_Isolation.md'
    - Thanks for coming!: Thanks.md
