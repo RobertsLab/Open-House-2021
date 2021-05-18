@@ -28,8 +28,8 @@ This video is of baby oysters moving around.
 
 Remember seeing those green and brown tanks in the hatchery video? By eating green and brown **microalgae**, the **larvae** grow into **juveniles**. Unlike the **larvae**, **juveniles** live on the seafloor and don’t move on their own! In a hatchery, **juvenile** oysters can also be called **oyster seed**, because they are ready to grow into adults, much like seeds grow into plants!  
 
-## Activity
-Match the oyster life cycle term to the definition! Drag the term over to it's definition, and both will disappear if you got it right! 
+## Life Cycle Matching Activity
+Match the oyster life cycle term to the definition! Click a term, and click the match. If you got it right, both will disappear!  
 
 <iframe src="https://quizlet.com/596126121/match/embed?i=7b38g&x=1jj1" height="500" width="100%" style="border:0"> 
 </iframe>
