@@ -14,7 +14,7 @@ The interactive graph below shows the number of larvae released on the y-axis (v
 
 Once you interact with the data, take your best guesses at the questions and see how much you learned!
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~lhs3/15.embed" height="100%" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~lhs3/15.embed" height="525" width="100%"></iframe>
 
 ---
 
