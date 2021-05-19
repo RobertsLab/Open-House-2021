@@ -19,7 +19,7 @@ _Image of larval oysters under a microscope. The image is labeled with how the s
 
 Once you interact with the data on the tab called "Part 1: Undertanding Distributions", take your best guesses at the questions and see how much you learned! 
 
-<iframe width="640" height="1300" frameborder="no" src="https://sthurner.shinyapps.io/oav1/"> </iframe>
+<iframe width="640" height="1600" frameborder="no" src="https://sthurner.shinyapps.io/oav1/"> </iframe>
 
 --- 
 
