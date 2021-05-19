@@ -13,3 +13,9 @@ SEM IMAGE
 
 Caption: shows cracks in osyter shell - better caption needed 
 
+In one of our experiments, Pacific oyster larvae were placed in different pH treatments. At the end of our experiment, we took two measurements of the larvae’s shells: **hinge length** and **shell depth** (see image below). You can look at our data in the activity below! Click the treatment boxes to see what the shell measurements were for each group. The data for a pH group will pop up in different colors. Look at the length or depth on the horizontal, or **x-axis**, and the number of larvae on the vertical, or **y-axis**. Are some groups smaller than others? How do you think lower pH impacted shell measurements? You can also adjust the way the data is grouped together in the graphs by using the sliders to change the number of size bins. When you make the number of size bins larger, how does that change the graph? Is it easier to look at differences when there are more or less bins?
+
+MEASUREMENT IMAGE    
+caption
+
+Once you interact with the data, take your best guesses at the questions and see how much you learned!
