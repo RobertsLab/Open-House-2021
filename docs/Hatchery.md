@@ -26,7 +26,7 @@ While you watch the video, listen for these words and phrases! Can you figure ou
 
 
 ### Hatchery Tour Crossword!
-In the video, you may have heard some words we use when working at Pt. Whitney! Try filling out the crossword puzzle below with some of the new words! 
+In the video, you may have heard some words we use when working at Pt. Whitney! Try filling out the crossword puzzle below with some of the new words! Click the "Get Started!" button to begin. 
 
 
 <script type="text/javascript" src="https://CrosswordHobbyist.com/embedjs?puzzle_id=922808"></script>
