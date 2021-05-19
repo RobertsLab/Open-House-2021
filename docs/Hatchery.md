@@ -26,7 +26,7 @@ While you watch the video, listen for these words and phrases! Can you figure ou
 
 
 ### Hatchery Tour Wordsearch!
-In the video, you may have heard some words we use when working at Pt. Whitney! Below we included the term definitions.  Can you find the terms in our wordsearch? Click the "Start Solving!" button below to start the search! 
+In the video, you may have heard some words we use when working at Pt. Whitney! Below we included some of the words and their definitions.  Can you find the terms in our wordsearch? Click the "Start Solving!" button below to start the search! 
 
 | Term        | Definition                                                          |
 |-------------|---------------------------------------------------------------------|
