@@ -17,7 +17,7 @@ The adults release their eggs or sperm into the water, which is called **spawnin
 ### Australian oyster larvae swimming & eating
 
 <iframe width="672" height="378" src="https://www.youtube.com/embed/-mnlno-TTC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
-This video is of two baby oysters. They both have tiny tentacle-like things coming out of their shells (called “cilia”) that help them move around. 
+This video is of two baby oysters. They both have tiny tentacle-like things coming out of their shells (called “cilia”) that help them move around and capture food.  
 
 
 ### Olympia oyster larvae "jumping"
