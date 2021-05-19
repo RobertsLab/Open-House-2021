@@ -29,4 +29,4 @@ While you watch the video, listen for these words and phrases! Can you figure ou
 In the video, you may have heard some words we use when working at Pt. Whitney! Try filling out the crossword puzzle below with some of the new words! 
 
 
-<script type="text/javascript" src="CrosswordHobbyist.com/embedjs?puzzle_id=922808"></script>
+<script type="text/javascript" src="https://CrosswordHobbyist.com/embedjs?puzzle_id=922808"></script>
