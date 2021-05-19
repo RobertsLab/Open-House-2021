@@ -25,22 +25,8 @@ While you watch the video, listen for these words and phrases! Can you figure ou
 <iframe width="672" height="378" src="https://www.youtube.com/embed/BWtLFbP0Ka8" title="YouTube video player" frameborder="0" cc_load_policy=1&cc_lang_pref=en allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
 
 
-### Hatchery Tour Wordsearch!
-In the video, you may have heard some words we use when working at Pt. Whitney! Below we included some of the words and their definitions.  Can you find the terms in our wordsearch? Click the "Start Solving!" button below to start the search! 
+### Hatchery Tour Crossword!
+In the video, you may have heard some words we use when working at Pt. Whitney! Try filling out the crossword puzzle below with some of the new words! 
 
-| Term        | Definition                                                          |
-|-------------|---------------------------------------------------------------------|
-| Hatchery    | Place where shellfish are grown for food or research                |
-| Geoduck     | A type of clam that we study                                        |
-| Oyster      | A type of bivalve that we study that isn’t a clam                   |
-| Downwelling | Water flows downward in tanks                                       |
-| Upwelling   | Water flows upward                                                  |
-| Microalgae  | What do hatchery workers feed the oysters?                          |
-| Microscope  | Something that can help us look at things that are tiny             |
-| Tank        | A container that can hold water, algae, or shellfish                |
-| Larvae      | Baby shellfish                                                      |
-| Gametes     | Sperm and eggs that help create baby shellfish                      |
-| Spawning    | When adult shellfish release their gametes to create baby shellfish |
-| Juvenile    | Shellfish that aren’t babies, but aren’t adults yet!                |
 
-<script type="text/javascript" src="https://MyWordSearch.com/embedjs.php?puzzle_id=518443"></script>
+<script type="text/javascript" src="CrosswordHobbyist.com/embedjs?puzzle_id=922808"></script>
