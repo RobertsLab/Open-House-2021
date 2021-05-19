@@ -8,6 +8,8 @@ Some of the shellfish species we focus on are Pacific geoduck (“gooey-duck”)
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+<img src="https://github.com/RobertsLab/Open-House-2021/blob/main/images/shellfishmeme.jpg" alt="Shellfish Meme" style="height: 100px; width:100px;"/>
+
 A meme with six shellfish you may encounter in Washington (from top left to bottom right: Olympia Oyster, Red Abalone, Pacific Geoduck, Purple-hinge Rock Scallop, Blue Mussel, Pacific Oyster) that pokes fun at some of the traits these animals have.
 
 A shellfish hatchery is a place where shellfish are grown, either for food or for scientific experiments like ours. Usually, conducting an experiment in a hatchery is the first step of our scientific process! In the video below, Steven will walk you through the Pt. Whitney Shellfish Hatchery on the Olympic Peninsula in Washington. This hatchery is owned and operated by the Jamestown S'klallam Tribe, and we run some experiments here with the tribe. 
