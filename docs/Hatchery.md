@@ -44,5 +44,3 @@ In the video, you may have heard some words we use when working at Pt. Whitney! 
 | Juvenile    | Shellfish that aren’t babies, but aren’t adults yet!                |
 
 <script type="text/javascript" src="https://MyWordSearch.com/embedjs.php?puzzle_id=518443"></script>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdifiFfG2sf9tE4L5Qj5Ng6xic_t3W9L5fX5dWW0UhCAKG_6Q/viewform?embedded=true" width="640" height="538" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
